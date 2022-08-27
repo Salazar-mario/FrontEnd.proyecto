@@ -1,0 +1,10 @@
+#logoAp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+}
