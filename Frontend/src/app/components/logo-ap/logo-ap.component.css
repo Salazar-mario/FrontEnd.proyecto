@@ -1,3 +1,9 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 #logoAp {
     position: absolute;
     top: 0;
@@ -7,4 +13,24 @@
     width: 18%;
     display: flex;
     background-size: cover;
+}
+
+.spacer {
+    margin-right: 0.5em;
+}
+
+.toolbar {
+    position: absolute;
+    top: 0;
+    padding: left;
+    right: 0;
+    height: 575px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: 600px;
+}
+
+.btn {
+    border-width: medium;
 }
