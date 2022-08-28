@@ -7,9 +7,9 @@
     top: 0;
     padding: left;
     right: 0;
-    height: 650px;
+    height: 575px;
     display: flex;
     align-items: center;
     color: white;
-    font-weight: 600;
+    font-weight: 600px;
 }
