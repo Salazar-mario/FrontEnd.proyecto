@@ -4,13 +4,13 @@
 }
 
 .contenedor {
-    width: auto;
+    width:auto;
 }
 
 .parte1,
 .parte2 {
-    display: inline-block;
-    text-align: justify;
+    display:inline-block;
+    text-align:justify;
 }
 
 .img-proyecto {
