@@ -3,10 +3,16 @@
 }
 
 div {
-    background: #a1b5cb;
+    background: #052242;;
 }
 
 h1,
+h2,
 h3 {
     display: inline;
+    color: aliceblue;
+}
+
+td{
+    color: aliceblue;
 }

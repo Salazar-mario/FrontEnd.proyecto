@@ -3,11 +3,19 @@
 }
 
 div {
-    background-color: #a1b5cb;
-    text-align: center;
+        background: #052242;
+    
 }
 
+h1, p{
+    color: rgb(186, 208, 226);
+}
 
+.descripcion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /*estilo de la foto de perfil*/
 
 @media(min-width: 576px) {
@@ -15,9 +23,10 @@ div {
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
-        left: 3%;
+        left: 2%;
         top: 250px;
+        box-shadow: 2px 2px 2px grey;
+        
     }
 }
 
