@@ -11,7 +11,7 @@ export const environment = {
   },
  
   production: true,
- URL:'https://backend-production-c246.up.railway.app/'
+ URL:'https://backendmas.onrender.com/'
 
 }
 
