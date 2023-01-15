@@ -1,16 +1,20 @@
 .row {
     padding: 20px;
+    width: auto;
+    height: auto;
 }
 
 div {
     background: #052242;
 }
 
-h1,
-h2,
+h1{
+    color: red;
+}
+h2
 h3 {
-    display: inline;
-    color: rgb(186, 208, 226);
+    display:inline;
+    color: aliceblue;
 }
 
 td{

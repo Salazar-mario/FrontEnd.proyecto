@@ -1,10 +1,11 @@
 .row {
     background: #1e3247;
+    
 }
 
 footer {
     color: #fefefe;
-    font-size: 14px;
+    font-size: 15px;
     display: flex;
     flex-direction: column;
     text-align: center;

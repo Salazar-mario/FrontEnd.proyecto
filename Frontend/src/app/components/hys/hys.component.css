@@ -1,10 +1,11 @@
 .row {
     background-color:  #052242;
     padding: 20px;
+    
 }
 
 h1{
-    color: rgb(195, 212, 226);
+    color: red;
 }
 
 td {

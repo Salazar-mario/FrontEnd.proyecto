@@ -3,19 +3,25 @@
 }
 
 div {
-        background: #052242;
-    
+    background: #052242;
+
 }
 
-h1, p{
+h1 {
+    text-align: end;
+    color: red;
+}
+
+p {
     color: rgb(186, 208, 226);
 }
 
-.descripcion{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.descripcion {
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
 }
+
 /*estilo de la foto de perfil*/
 
 @media(min-width: 576px) {
@@ -26,7 +32,7 @@ h1, p{
         left: 2%;
         top: 250px;
         box-shadow: 2px 2px 2px grey;
-        
+
     }
 }
 

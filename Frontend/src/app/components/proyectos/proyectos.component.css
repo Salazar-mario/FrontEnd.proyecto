@@ -1,10 +1,15 @@
 .row {
     padding: 20px;
     background-color:  #052242;
+    
 }
 
 h1{
-    color: rgb(195, 212, 226);
+    color:red;
+}
+
+h2{
+    color:rgb(195, 212, 226);
 }
 .contenedor {
     width:auto;
